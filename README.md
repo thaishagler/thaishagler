@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oii, eu sou a Thaís 👋
 Seja bem vindo ao meu GitHub!
 
 <!--
