@@ -8,6 +8,8 @@ Seja bem vindo ao meu GitHub!
 
 💼 Algumas das minhas habilidades incluem elaboração e acompanhamento de planos de marketing digital, gerenciamento de projetos e equipes multidisciplinares,e levantamento de requisitos de projeto.
 
+📫 Me encontre através do e-mail thaishagler@gmail.com
+
 <div>
 <img src ="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title= "Python" alt="Python" width= "40" height="40"/>&nbsp;
 <img src ="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title= "Oracle SQL Developer" alt="Oracle SQL Developer" width= "40" height="40"/>&nbsp;
