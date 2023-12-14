@@ -1,6 +1,6 @@
 <h1> Olá, eu sou a Thaís Hagler 👋 </h1>
 
-🎨 Vim da área do marketing e design, tendo boa experiência com desenvolvimento projetos e equipes. Recebi o prêmio do RD Station como uma das melhores agências do ano em 2019. 
+🎨 Vim da área do marketing e design, tendo boa experiência com desenvolvimento projetos e equipes. Recebi o prêmio do RD Station como uma das melhores agências de inbound MKT em 2019. 
 
 🚀 Estudo Data Science na FIAP, onde irei me formar em dez/2024. 😄
 
